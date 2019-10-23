@@ -2,7 +2,7 @@
   "name": "javascript-developer-test",
   "version": "1.0.0",
   "description": "Thanks for your interest in working at Sweetwater! We're always excited to meet awesome people. We've created this test to help us understand your programming chops.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +17,9 @@
   },
   "homepage": "https://github.com/brookelkennison/sweetwater-code-test#readme",
   "dependencies": {
+    "express": "^4.17.1",
     "vue": "^2.6.10",
+    "vue-router": "^3.1.3",
     "vuex": "^3.1.1"
   }
 }
