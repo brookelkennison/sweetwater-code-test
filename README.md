@@ -25,7 +25,7 @@ We'd like you to build a Shopping Cart application using Vue.js, Vuex, and ES6. 
 
 - __Commit often.__ We want to see your progress throughout the project.
 - __Work quickly.__ We will be looking at how far you get in the first hour as well as how long it takes you to arrive at a finished product. This project was designed to be completed quickly, so don't spend more than a few hours on it.
-- __Write your own code.__ While we understand that there are NPM pakages out there that take care of common problems, we ultimately want to see what _YOU_ can build, not what someone else has built.
+- __Write your own code.__ While we understand that there are NPM packages out there that take care of common problems, we ultimately want to see what _YOU_ can build, not what someone else has built.
 - __Do your best work.__ We're using this project as a viewport into who you are as a developer. Show us what you can do!
 
 ## Bonus points
