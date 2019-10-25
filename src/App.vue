@@ -2,9 +2,9 @@
     <div id="app">
         <Header />
         <Items />
-        <ul>
-            <li>{{myItems}}</li>
-        </ul>
+        <div id="example">
+            <h5>{{myItems[0].image}}</h5>
+        </div>
     </div>
 </template>
 
